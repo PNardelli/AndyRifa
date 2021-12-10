@@ -1,0 +1,23 @@
+{
+  "name": "rifa-online",
+  "version": "1.0.0",
+  "description": "Sistema de rifa online",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PNardelli/AndyRifa.git"
+  },
+  "author": "@PNardelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PNardelli/AndyRifa/issues"
+  },
+  "homepage": "https://github.com/PNardelli/AndyRifa#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
